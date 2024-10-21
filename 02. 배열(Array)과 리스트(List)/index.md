@@ -102,10 +102,18 @@ console.log(arr);
 
 ```js
 let arr2 = new Array(4);
+
 for (let i = 0; i < arr2.length; i++) {
   arr2[i] = Array.from({ length: 5 }, (undefined, j) => i * 5 + j);
 }
+
 console.log(arr2);
+// [
+//  [0, 1, 2, 3, 4],
+//  [5, 6, 7, 8, 9],
+//  [10, 11, 12, 13, 14],
+//  [15, 16, 17, 18, 19]
+//]
 ```
 
 ### JavaScript 배열의 대표적인 메서드
