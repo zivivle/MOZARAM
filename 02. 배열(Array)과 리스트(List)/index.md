@@ -101,9 +101,9 @@ console.log(arr);
 ```
 
 ```js
-let arr2 = new Array(3);
+let arr2 = new Array(4);
 for (let i = 0; i < arr2.length; i++) {
-  arr2[i] = Array.from({ length: 4 }, (undefined, j) => i * 4 + j);
+  arr2[i] = Array.from({ length: 5 }, (undefined, j) => i * 5 + j);
 }
 console.log(arr2);
 ```
