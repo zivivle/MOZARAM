@@ -82,8 +82,4 @@ N개의 동전을 던질때 앞/뒷면에 대한 모든 경우의 수
 
 ### 문제
 
-[아이스 아메리카노](https://school.programmers.co.kr/learn/courses/30/lessons/120819)
-
-[중복된 숫자 개수](https://school.programmers.co.kr/learn/courses/30/lessons/120583)
-
-[팩토리얼\_순차탐색](https://school.programmers.co.kr/learn/courses/30/lessons/120848)
+[입문문제 5페이지](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc&page=5)
